@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-- 🌱 Aiming to make my codes less messy
+-  Feel free to judge my codes
 
 
 
