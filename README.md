@@ -1,6 +1,6 @@
 ## Hi there 
 
--  Feel free to judge my codes
+-  Feel free to judge my code
 
 
 
